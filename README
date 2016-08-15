@@ -6,8 +6,8 @@ This code is modified to suit Saga-ioTheatre needs.
 1. DOWNLOAD LATEST SOURCE
 
 You need Subversion ( http://subversion.tigris.org ).
-	* $ apt-get install subversion
-	* $ apt-get install libapache2-svn
+	* $ sudo apt-get install subversion
+	* $ sudo apt-get install libapache2-svn
 
 Read only checkout:
 
